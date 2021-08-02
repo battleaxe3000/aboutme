@@ -1,0 +1,30 @@
+body {
+  display: inline;
+  text-align: center;
+  font-family: cursive;
+  background-size: cover;
+  background-position: center;
+  background-color: purple;
+  color: red;
+  
+}
+
+
+
+#aboutme {
+  text-align: center;
+  position: relative;
+  
+}
+
+#menu {
+  text-align: center;
+
+}
+
+#menu li {
+  display: inline;
+}
+
+
+
