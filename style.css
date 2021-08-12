@@ -1,7 +1,6 @@
 body {
   display: inline;
   text-align: center;
-  font-family: cursive;
   background-size: cover;
   background-position: center;
   background-color: purple;
@@ -24,6 +23,13 @@ body {
 
 #menu li {
   display: inline;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 
